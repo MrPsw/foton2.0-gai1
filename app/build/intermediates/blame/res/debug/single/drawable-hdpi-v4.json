@@ -1,0 +1,638 @@
+[
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\user.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\user.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\zhu1.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\zhu1.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d02.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\d02.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fxkwxz.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\fxkwxz.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\s62.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\s62.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sdlh.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\sdlh.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\yuan5.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\yuan5.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\zhu6.jpeg",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\zhu6.jpeg"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d03.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\d03.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d17.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\d17.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sdxkzx.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\sdxkzx.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\back.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\back.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\biao.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\biao.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pullup_icon_big.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\pullup_icon_big.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\s61.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\s61.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\yuan6.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\yuan6.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_48dp.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cuibanchengg.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\cuibanchengg.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d15.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\d15.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d29.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\d29.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_richpush_actionbar_back.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\ic_richpush_actionbar_back.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d18.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\d18.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d01.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\d01.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\t3.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\t3.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d04.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\d04.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d31.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\d31.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\longin.jpeg",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\longin.jpeg"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d20.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\d20.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\baobiao.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\baobiao.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\zhu_3.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\zhu_3.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sdkr_h.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\sdkr_h.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\zhu2.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\zhu2.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ix5.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\ix5.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tabwxz.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\tabwxz.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d05.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\d05.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d30.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\d30.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\jpush_notification_icon.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\jpush_notification_icon.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tabxz.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\tabxz.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\bg.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\password.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\password.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tianqi.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\tianqi.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\che2.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\che2.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\yuan2.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\yuan2.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\logint.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\logint.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\s42.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\s42.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\zhu3.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\zhu3.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d14.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\d14.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loading.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\loading.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\jiazai.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\jiazai.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fenge.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\fenge.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\yuan3.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\yuan3.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d53.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\d53.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\logo.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_48dp.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-hdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_richpush_actionbar_divider.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\ic_richpush_actionbar_divider.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\zhu_4.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\zhu_4.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\load_failed.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\load_failed.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\s52.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\s52.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d21.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\d21.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\v3.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\v3.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d27.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\d27.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ftxyun.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\ftxyun.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ftjg.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\ftjg.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pass2.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\pass2.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d08.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\d08.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d24.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\d24.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\futianqiche.jpeg",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\futianqiche.jpeg"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\refresh_failed.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\refresh_failed.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d25.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\d25.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ruiwozk.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\ruiwozk.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sanjiao.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\sanjiao.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\crate.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\crate.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d09.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\d09.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sdwl.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\sdwl.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shidaixiaoyun.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\shidaixiaoyun.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\load_succeed.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\load_succeed.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d11.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\d11.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d12.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\d12.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-hdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\che1.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\che1.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\buttonpng.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\buttonpng.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d26.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\d26.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d07.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\d07.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\refreshing.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\refreshing.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d23.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\d23.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\go.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\go.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ruiwozx.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\ruiwozx.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\yuan8.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\yuan8.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sdql.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\sdql.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\zhu5.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\zhu5.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\richpush_btn_selector.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\richpush_btn_selector.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\s51.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\s51.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sdjr_k.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\sdjr_k.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\zhu_5.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\zhu_5.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d22.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\d22.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ruiwozhongx.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\ruiwozhongx.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\zhu4.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\zhu4.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\yuan7.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\yuan7.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d28.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\d28.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d00.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\d00.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\buttonps.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\buttonps.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pass1.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\pass1.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\caidan.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\caidan.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d06.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\d06.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fotondf.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\fotondf.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\msm.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\msm.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\che3.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\che3.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\v5.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\v5.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\s41.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\s41.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\sdjg.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\sdjg.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\refresh_succeed.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\refresh_succeed.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pull_icon_big.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\pull_icon_big.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\yuan1.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\yuan1.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\yuan4.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\yuan4.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ix7.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\ix7.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d10.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\d10.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d16.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\d16.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\fxkxz.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\fxkxz.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d13.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\d13.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d19.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\drawable-hdpi\\d19.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    }
+]

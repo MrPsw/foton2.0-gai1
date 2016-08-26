@@ -1,0 +1,418 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    tools:context="cn.com.foton.Will.Plan_Activity" >
+
+   
+  
+
+    <include layout="@layout/actionbar" />
+   
+     <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+     <LinearLayout 
+       	android:background="@drawable/yuanjiaoinput"
+       	android:padding="4dp"
+        android:layout_margin="4dp"
+       	android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+       	android:orientation="vertical"
+         >
+    <TextView
+          android:layout_margin="4dp"
+        android:id="@+id/textView1"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:background="#26C6DA"
+        android:gravity="center_vertical"  
+        android:padding="5dp"
+        android:text="已制定的跟进计划"
+        android:textColor="@android:color/white" />
+
+    <LinearLayout
+ 
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+      	android:padding="4dp"
+		android:orientation="horizontal" >
+    <TextView
+           
+            android:id="@+id/fangshi"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:gravity="center_vertical"
+            android:text="TextView" />
+        <TextView
+            android:id="@+id/Tiem"
+            android:layout_width="wrap_content"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:gravity="center_vertical"
+            android:text="TextView" />
+    </LinearLayout>
+</LinearLayout>
+	  <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+      	android:background="@drawable/yuanjiaoinput"
+      	android:padding="8dp"
+      	android:layout_margin="4dp"
+      	android:layout_marginLeft="4dp"
+      	
+        android:orientation="vertical" >
+	
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+         android:layout_margin="4dp"
+        android:background="#ffffff"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:layout_width="match_parent"
+              android:layout_marginRight="4dp"
+            android:layout_height="fill_parent"
+            android:background="#26C6DA"
+            android:gravity="center_vertical"
+            android:text="目前跟进进展:"
+            android:textColor="@android:color/white" />
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/zhengc"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:layout_margin="4dp"
+            android:background="@android:color/white"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_margin="4dp"
+                android:layout_width="98dp"
+                android:layout_height="fill_parent"
+                android:gravity="center_vertical"
+                android:text="跟进结果：" />
+
+            <Spinner
+                android:id="@+id/spinner1"
+                android:layout_width="0dp"
+                android:layout_height="fill_parent"
+
+                android:layout_weight="1" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:layout_margin="4dp"
+            android:background="@android:color/white"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_margin="4dp"
+                android:layout_width="98dp"
+                android:layout_height="35dp"
+                android:gravity="center_vertical"
+                android:text="线索状态：" />
+
+            <TextView
+                android:layout_margin="4dp"
+                android:id="@+id/xszt"
+                android:layout_width="match_parent"
+                android:layout_height="35dp"
+              />
+        </LinearLayout>
+
+        <LinearLayout
+
+            android:id="@+id/yxgcTiem"
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+      		android:layout_margin="4dp"
+            android:background="@android:color/white"
+            android:orientation="horizontal" >
+
+            <TextView
+                  android:layout_margin="4dp"
+                android:layout_width="98dp"
+                android:layout_height="fill_parent"
+                android:gravity="center_vertical"
+                android:text="意向购车时间" />
+
+            <Spinner
+                android:id="@+id/spinner2"
+                  android:layout_width="0dp"
+                android:layout_height="fill_parent"
+                
+                android:layout_weight="1" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/yxgccx"
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+             android:layout_margin="4dp"
+            android:layout_marginBottom="2dp"
+          	android:background="@android:color/white"
+            android:orientation="horizontal" >
+
+            <TextView
+                 android:layout_margin="4dp"
+                android:layout_width="98dp"
+                android:layout_height="fill_parent"
+                android:gravity="center_vertical"
+                android:text="意向车系" />
+
+            <Spinner
+                android:id="@+id/spinner3"
+                  android:layout_width="0dp"
+                android:layout_height="fill_parent"
+             
+                android:layout_weight="1" />
+        </LinearLayout>
+
+        <EditText
+            android:layout_margin="4dp"
+            android:id="@+id/editText2"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:gravity="left|top"
+          	android:background="@drawable/input2"
+            android:ems="10"
+           	android:textSize="16dp"
+            android:padding="2dp"
+            android:hint="请输入跟备注信息"
+            android:maxEms="60"
+            android:maxLines="3" >
+
+            <requestFocus />
+        </EditText>
+        </LinearLayout>
+         <LinearLayout
+        android:id="@+id/yijiaoche"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:layout_marginTop="2dp"
+         android:layout_margin="4dp"
+        android:background="@android:color/white"
+        android:orientation="horizontal"
+        android:visibility="gone" >
+
+        <TextView
+            android:layout_width="98dp"
+            android:layout_height="fill_parent"
+            android:background="#26C6DA"
+            android:gravity="center_vertical"
+            android:text="成功原因:"
+            android:textColor="@android:color/white" />
+
+        <Button
+            android:id="@+id/spinner6"
+            android:layout_width="wrap_content"
+            android:layout_height="35dp"
+            android:background="@android:color/white"
+        	android:text="+添加原因"
+        	android:textSize="16dp"
+            android:layout_weight="1" />
+        
+        
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/zhanbai"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:layout_marginTop="2dp"
+         android:layout_margin="4dp"
+        android:background="@android:color/white"
+        android:orientation="horizontal"
+        android:visibility="gone" >
+
+        <TextView
+            android:layout_width="98dp"
+            android:layout_height="fill_parent"
+            android:background="#26C6DA"
+            android:gravity="center_vertical"
+            android:text="战败原因:"
+   
+            android:textColor="@android:color/white" />
+
+        <Button
+            android:id="@+id/spinner7"
+            android:layout_width="wrap_content"
+            android:layout_height="35dp"
+            android:background="@android:color/white"
+     		android:text="+添加原因"
+            android:textSize="16dp"
+            android:layout_weight="1" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/wuxiao"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:layout_marginTop="2dp"
+         android:layout_margin="4dp"
+        android:background="@android:color/white"
+        android:orientation="horizontal"
+        android:visibility="gone" >
+
+        <TextView
+            android:layout_width="98dp"
+            android:layout_height="fill_parent"
+            android:background="#26C6DA"
+            android:gravity="center_vertical"
+            android:text="废弃原因："
+            android:textColor="@android:color/white" />
+
+            <Button
+            android:id="@+id/spinner8"
+            android:layout_height="35dp"
+            android:layout_width="match_parent"
+            android:text="+添加原因"
+        	android:background="@android:color/white"
+        	android:textSize="16dp"
+            android:layout_weight="1" />
+    </LinearLayout>
+          <LinearLayout
+              android:id="@+id/text"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:layout_marginTop="2dp"
+              android:background="@android:color/white"
+              android:orientation="horizontal"
+              >
+            <TextView
+                  android:id="@+id/yuanyin"
+                  android:layout_height="wrap_content"
+                  android:layout_width="match_parent"
+
+                  android:background="@android:color/white"
+                  android:textSize="10dp"
+                 />
+          </LinearLayout>
+
+      </LinearLayout>
+        
+	  
+         <LinearLayout
+             android:id="@+id/zhengc2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="8dp"
+            android:layout_margin="4dp"
+            android:background="@drawable/yuanjiaoinput"
+            android:orientation="vertical" >
+         <TextView
+                android:layout_width="match_parent"
+                android:layout_height="35dp"
+                android:background="#26C6DA"
+                android:gravity="center_vertical"
+                android:text="下一步跟进计划:"
+                android:textColor="@android:color/white" />
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+
+            android:layout_marginTop="5dp"
+            android:background="@android:color/white"
+            android:orientation="horizontal" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent"
+                android:background="@android:color/white"
+                android:gravity="center_vertical"
+                android:text="开始时间:"
+               />
+
+            <Button
+                android:id="@+id/tiem"
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent"
+              	android:layout_weight="1"
+                android:gravity="left|center_vertical"
+                style="?android:attr/borderlessButtonStyle" 
+                android:background="@android:color/white"
+                android:text="2016-12-2" />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent"
+                android:background="@android:color/white"
+                android:gravity="center_vertical"
+                android:text="结束时间:"
+                />
+
+            <Button
+                android:id="@+id/endtiem"
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                android:gravity="left|center_vertical"
+                style="?android:attr/borderlessButtonStyle"
+                android:background="@android:color/white"
+                android:text="2016-12-3" />
+        </LinearLayout>
+             <LinearLayout
+                 android:id="@+id/jindian"
+                 android:layout_marginTop="5dp"
+                 android:layout_width="match_parent"
+                 android:layout_height="35dp"
+                 android:background="@android:color/white"
+                 android:orientation="horizontal" >
+
+                 <TextView
+                     android:id="@+id/jindianyix"
+                     android:layout_width="110dp"
+                     android:layout_height="fill_parent"
+                     android:background="@android:color/white"
+                     android:gravity="center_vertical"
+                     android:text="有进店意向:"
+                     />
+             <Button
+                     android:id="@+id/yxtiem"
+                     android:layout_width="wrap_content"
+                     android:layout_height="fill_parent"
+                     android:background="@drawable/input2"
+                     android:text="点击选择时间"
+                    android:textSize="14dp"
+                     android:layout_weight="1" />
+             </LinearLayout>
+
+
+    </LinearLayout>
+
+   
+	
+
+    <Button
+        android:id="@+id/submit"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/button"
+        android:text="提交"
+        android:layout_marginBottom="5dp"
+        android:textColor="@android:color/white" />
+      </LinearLayout>
+    </ScrollView>
+</LinearLayout>

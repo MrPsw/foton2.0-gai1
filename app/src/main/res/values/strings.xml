@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">福田经销商</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_market">MarketActivity</string>
+    <string name="title_activity_will_">Will_Activity</string>
+    <string name="title_activity_will_tab1_">Will_tab1_Activity</string>
+    <string name="title_activity_setting">SettingActivity</string>
+    <string name="title_activity_allot">AllotActivity</string>
+    <string name="title_activity_fg">FgActivity</string>
+    <string name="title_activity_wait">WaitActivity</string>
+    <string name="title_activity_defeat">DefeatActivity</string>
+    <string name="title_activity_followup">FollowupActivity</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="title_activity_add_clue">AddClueActivity</string>
+    <string name="title_activity_all_clue">AllClueActivity</string>
+    <string name="title_activity_particular">ParticularActivity</string>
+    <string name="title_activity_undistributed">UndistributedActivity</string>
+    <string name="title_activity_plan">PlanActivity</string>
+    <string name="title_activity_overtime">OvertimeActivity</string>
+    <string name="title_activity_plan_">Plan_Activity</string>
+    <string name="title_activity_wil_tab2_">Wil_tab2_Activity</string>
+    <string name="head">这里是HeadView</string>
+    <string name="pull_to_refresh">下拉刷新</string>
+    <string name="release_to_refresh">释放立即刷新</string>
+    <string name="refreshing">正在刷新...</string>
+    <string name="refresh_succeed">刷新成功</string>
+    <string name="refresh_fail">刷新失败</string>
+    <string name="pullup_to_load">上拉加载更多</string>
+    <string name="release_to_load">释放立即加载</string>
+    <string name="loading">正在加载...</string>
+    <string name="load_succeed">加载成功</string>
+    <string name="load_fail">加载失败</string>
+    <string name="title_activity_the_report">The_reportActivity</string>
+    <string name="title_activity_msm_list">MsmListActivity</string>
+
+</resources>

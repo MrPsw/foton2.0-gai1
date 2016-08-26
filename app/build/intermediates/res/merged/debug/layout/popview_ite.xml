@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+     android:background="@drawable/yuanjiaob"
+     
+    android:orientation="vertical" >
+    
+      <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:orientation="horizontal" >
+   		<TextView
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:background="#3399FF"
+        android:gravity="center"
+        android:text="请选择销售顾问"
+        android:textColor="@android:color/white"
+        android:textSize="16dp" />
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:id="@+id/quxiao"
+            android:text="取消"
+            android:gravity="center"
+            android:textColor="@android:color/white"
+            android:background="#FFAA25"
+            android:layout_weight="1" />
+
+        
+    </FrameLayout>
+    
+ 
+
+    <ListView
+        android:id="@+id/listView_popview"
+        android:layout_width="match_parent"
+        
+        android:layout_height="wrap_content" >
+    </ListView>
+
+  
+</LinearLayout>

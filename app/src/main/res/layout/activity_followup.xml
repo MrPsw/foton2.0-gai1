@@ -1,0 +1,304 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="cn.com.foton.Defeat.FollowupActivity" >
+	<include layout="@layout/actionbar"/>
+      <LinearLayout
+          android:id="@+id/liebiao"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_marginTop="2dp"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_marginBottom="2dp"
+                android:background="#FFFFFF"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_margin="5dp"
+                    android:text="线索编号：" />
+
+                <TextView
+                    android:id="@+id/fcmBusinessId"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                               android:layout_gravity="center_vertical"
+                    android:layout_margin="5dp"
+                    android:text="跟进历史" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_marginBottom="2dp"
+                android:background="#FFFFFF"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                               android:layout_gravity="center_vertical"
+                    android:layout_margin="5dp"
+                    android:text="客户姓名：" />
+
+                <TextView
+                    android:id="@+id/fcmCustomerName"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                               android:layout_gravity="center_vertical"
+                    android:layout_margin="5dp"
+                    android:text="跟进历史" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_marginBottom="2dp"
+                android:background="#FFFFFF"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                               android:layout_gravity="center_vertical"
+                    android:text="联系电话：" />
+
+                <TextView
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    
+                    android:id="@+id/fcmCustomerMobile"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                               android:layout_gravity="center_vertical"
+                    android:text="跟进历史" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_marginBottom="2dp"
+                android:background="#FFFFFF"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                               android:layout_gravity="center_vertical"
+                    android:text="时间：" />
+
+                <TextView
+                    android:id="@+id/fcmCustomerCreateDate"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                               android:layout_gravity="center_vertical"
+                    android:text="跟进历史" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_marginBottom="2dp"
+                android:background="#FFFFFF"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                               android:layout_gravity="center_vertical"
+                    android:text="意向购车时间：" />
+
+                <TextView
+                    android:id="@+id/fcmChangeType"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                               android:layout_gravity="center_vertical"
+                    android:text="跟进历史" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_marginBottom="2dp"
+                android:background="#FFFFFF"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                               android:layout_gravity="center_vertical"
+                    android:text="意向车型：" />
+
+                <TextView
+                    android:id="@+id/fcmModelSeries"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                               android:layout_gravity="center_vertical"
+                    android:text="跟进历史" />
+            </LinearLayout>
+               <LinearLayout
+              
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_marginBottom="2dp"
+                android:background="#FFFFFF"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                               android:layout_gravity="center_vertical"
+                    android:text="线索等级：" />
+
+                <TextView
+                    android:id="@+id/fcmCustomerLevel"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                               android:layout_gravity="center_vertical"
+                    android:text="跟进历史" />
+            </LinearLayout>
+               <LinearLayout
+              
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_marginBottom="2dp"
+                android:background="#FFFFFF"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                               android:layout_gravity="center_vertical"
+                    android:text="线索来源：" />
+
+                <TextView
+                    android:id="@+id/fcmInfoWay"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                               android:layout_gravity="center_vertical"
+                    android:text="跟进历史" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/View_gone"
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_marginBottom="2dp"
+                android:background="#FFFFFF"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                               android:layout_gravity="center_vertical"
+                    android:text="战败申请人：" />
+
+                <TextView
+                    android:id="@+id/fcmCustomerSaleManId"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                               android:layout_gravity="center_vertical"
+                    android:text="跟进历史" />
+            </LinearLayout>
+              <LinearLayout
+              
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:layout_marginBottom="2dp"
+                android:background="#FFFFFF"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                               android:layout_gravity="center_vertical"
+                    android:text="战败原因：" />
+
+                <TextView
+                    android:id="@+id/fcmNote"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                               android:layout_gravity="center_vertical"
+                    android:text="跟进历史" />
+            </LinearLayout>
+
+            
+        </LinearLayout>
+
+    <LinearLayout
+        android:layout_marginTop="14dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal" >
+
+        <Button
+            android:id="@+id/b1_foll"
+            style="@style/text_style"
+            android:layout_marginLeft="14dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/dianjile"
+            android:textColor="@android:color/white"
+            android:layout_weight="1"
+            android:text="战败确认" />
+
+        <Button
+            android:id="@+id/b2_foll"
+            style="@style/text_style"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:background="@color/weidianji"
+            android:textColor="@android:color/black"
+            android:layout_marginRight="14dp"
+            android:text="重新分配" />
+    </LinearLayout>
+
+    
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_marginLeft="6dp"
+        android:layout_marginRight="6dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+      	android:layout_gravity="center_horizontal"
+      	android:alpha="0.8"
+      	android:layout_marginTop="20dp"
+      	android:visibility="gone"
+     	 android:background="#717171"
+     	 android:textColor="@android:color/white"
+        android:text="请选择其他用户分配" />
+
+</LinearLayout>

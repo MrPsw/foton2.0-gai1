@@ -1,0 +1,627 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:2:1-291:12
+	package
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:3:5-27
+		INJECTED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.bigkoo:svprogresshud:1.0.6] F:\Files\foton2.0-gai1\app\build\intermediates\exploded-aar\com.bigkoo\svprogresshud\1.0.6\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:24.1.1] F:\Files\foton2.0-gai1\app\build\intermediates\exploded-aar\com.android.support\design\24.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:24.1.1] F:\Files\foton2.0-gai1\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:recyclerview-v7:24.1.1] F:\Files\foton2.0-gai1\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:24.1.1] F:\Files\foton2.0-gai1\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:appcompat-v7:24.1.1] F:\Files\foton2.0-gai1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:24.1.1] F:\Files\foton2.0-gai1\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.1.1] F:\Files\foton2.0-gai1\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:24.1.1] F:\Files\foton2.0-gai1\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.1.1] F:\Files\foton2.0-gai1\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-vector-drawable:24.1.1] F:\Files\foton2.0-gai1\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:24.1.1] F:\Files\foton2.0-gai1\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:appcompat-v7:24.1.1] F:\Files\foton2.0-gai1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:24.1.1] F:\Files\foton2.0-gai1\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.1.1] F:\Files\foton2.0-gai1\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:24.1.1] F:\Files\foton2.0-gai1\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:24.1.1] F:\Files\foton2.0-gai1\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-vector-drawable:24.1.1] F:\Files\foton2.0-gai1\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:24.1.1] F:\Files\foton2.0-gai1\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\AndroidManifest.xml:21:5-23:54
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:24.1.1] F:\Files\foton2.0-gai1\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml
+		INJECTED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml
+uses-permission#com.motorola.dlauncher.permission.READ_SETTINGS
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:12:5-87
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:12:22-84
+uses-permission#com.motorola.dlauncher.permission.WRITE_SETTINGS
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:13:5-88
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:13:22-85
+uses-permission#com.motorola.mmsp.motoswitch.permission.READ_SETTINGS
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:14:5-93
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:14:22-90
+uses-permission#com.motorola.mmsp.motoswitch.permission.WRITE_SETTINGS
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:15:5-94
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:15:22-91
+uses-permission#com.htc.launcher.permission.READ_SETTINGS
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:16:22-78
+uses-permission#com.htc.launcher.permission.WRITE_SETTINGS
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:17:5-82
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:17:22-79
+uses-permission#com.aspire.mm.permission.READ_SETTINGS
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:18:5-78
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:18:22-75
+uses-permission#com.aspire.mm.permission.WRITE_SETTINGS
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:19:5-79
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:19:22-76
+uses-permission#com.qihoo360.launcher.permission.WRITE_SETTINGS
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:20:5-87
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:20:22-84
+uses-permission#com.qihoo360.launcher.permission.READ_SETTINGS
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:21:5-86
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:21:22-83
+uses-permission#com.ty.launcher.permission.READ_SETTINGS
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:22:5-80
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:22:22-77
+uses-permission#com.ty.launcher.permission.WRITE_SETTINGS
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:23:22-78
+uses-permission#com.sonyericsson.homescreen.permission.READ_SETTINGS
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:24:5-92
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:24:22-89
+uses-permission#com.sonyericsson.homescreen.permission.WRITE_SETTINGS
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:25:5-93
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:25:22-90
+uses-permission#com.oppo.launcher.permission.WRITE_SETTINGS
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:26:5-83
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:26:22-80
+uses-permission#com.oppo.launcher.permission.READ_SETTINGS
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:27:5-82
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:27:22-79
+uses-permission#com.mediatek.launcherplus.permission.READ_SETTINGS
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:28:5-90
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:28:22-87
+uses-permission#com.mediatek.launcherplus.permission.WRITE_SETTINGS
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:29:5-91
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:29:22-88
+uses-permission#com.huawei.launcher2.permission.READ_SETTINGS
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:30:5-85
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:30:22-82
+uses-permission#com.huawei.launcher2.permission.WRITE_SETTINGS
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:31:5-86
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:31:22-83
+uses-permission#com.huawei.launcher3.permission.READ_SETTINGS
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:32:5-85
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:32:22-82
+uses-permission#com.huawei.launcher3.permission.WRITE_SETTINGS
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:33:5-86
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:33:22-83
+uses-permission#com.baiqi.weather.permission.READ_SETTINGS
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:34:5-82
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:34:22-79
+uses-permission#com.baiqi.weather.permission.WRITE_SETTINGS
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:35:5-83
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:35:22-80
+uses-permission#com.fede.launcher.permission.READ_SETTINGS
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:36:5-82
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:36:22-79
+uses-permission#com.fede.launcher.permission.WRITE_SETTINGS
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:37:5-83
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:37:22-80
+uses-permission#com.motorola.dock.DesktopDock.permission.READ_SETTINGS
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:38:5-94
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:38:22-91
+uses-permission#com.motorola.dock.DesktopDock.permission.WRITE_SETTINGS
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:39:5-95
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:39:22-92
+uses-permission#com.lge.launcher.permission.READ_SETTINGS
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:40:5-81
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:40:22-78
+uses-permission#com.lge.launcher.permission.WRITE_SETTINGS
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:41:5-82
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:41:22-79
+uses-permission#com.thunderst.launcher.permission.READ_SETTINGS
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:42:5-87
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:42:22-84
+uses-permission#com.thunderst.launcher.permission.WRITE_SETTINGS
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:43:5-88
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:43:22-85
+uses-permission#android.permission.INTERNET
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:44:5-67
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:44:22-64
+permission#cn.com.foton.permission.JPUSH_MESSAGE
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:46:5-48:47
+	android:protectionLevel
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:48:9-44
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:47:9-61
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:50:5-97
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:50:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:51:5-95
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:51:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:52:5-92
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:52:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:53:5-95
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:53:22-76
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:54:5-92
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:54:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:55:5-91
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:55:22-72
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:56:5-97
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:56:22-78
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:58:5-100
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:58:22-81
+uses-permission#android.permission.READ_LOGS
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:59:5-84
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:59:22-65
+uses-permission#android.permission.VIBRATE
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:60:5-66
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:60:22-63
+uses-permission#android.permission.WAKE_LOCK
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:61:5-68
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:61:22-65
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:62:5-73
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:62:22-70
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:64:5-81
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:64:22-78
+uses-permission#cn.com.foton.permission.JPUSH_MESSAGE
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:67:5-77
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:67:22-74
+uses-permission#android.permission.RECEIVE_USER_PRESENT
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:68:5-79
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:68:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:73:5-80
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:73:22-77
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:77:5-78
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:77:22-75
+uses-permission#android.permission.ACCESS_COARSE_UPDATES
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:82:5-80
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:82:22-77
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:86:5-89
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:86:22-86
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:87:5-79
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:87:22-76
+application
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:89:5-289:19
+MERGED from [com.android.support:design:24.1.1] F:\Files\foton2.0-gai1\app\build\intermediates\exploded-aar\com.android.support\design\24.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:24.1.1] F:\Files\foton2.0-gai1\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.1.1] F:\Files\foton2.0-gai1\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.1.1] F:\Files\foton2.0-gai1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.1.1] F:\Files\foton2.0-gai1\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.1.1] F:\Files\foton2.0-gai1\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.1.1] F:\Files\foton2.0-gai1\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.1.1] F:\Files\foton2.0-gai1\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-vector-drawable:24.1.1] F:\Files\foton2.0-gai1\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.1.1] F:\Files\foton2.0-gai1\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:24.1.1] F:\Files\foton2.0-gai1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.1.1] F:\Files\foton2.0-gai1\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.1.1] F:\Files\foton2.0-gai1\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.1.1] F:\Files\foton2.0-gai1\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:24.1.1] F:\Files\foton2.0-gai1\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-vector-drawable:24.1.1] F:\Files\foton2.0-gai1\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:24.1.1] F:\Files\foton2.0-gai1\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:93:9-41
+	android:allowBackup
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:91:9-35
+	android:icon
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:92:9-45
+	android:theme
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:94:9-40
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:90:9-50
+meta-data#com.baidu.lbsapi.API_KEY
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:95:9-97:64
+	android:value
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:97:13-61
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:96:13-52
+service#cn.com.foton.DBservice
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:99:9-46
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:99:18-43
+service#com.baidu.location.f
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:100:9-103:49
+	android:enabled
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:102:13-35
+	android:process
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:103:13-38
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:101:13-48
+activity#cn.com.foton.Activity.MainActivity
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:105:9-107:57
+	android:label
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:107:13-45
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:106:13-50
+activity#cn.com.foton.LoginActivity
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:108:9-117:20
+	android:label
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:110:13-45
+	android:windowSoftInputMode
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:111:13-52
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:109:13-42
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:112:13-116:29
+action#android.intent.action.MAIN
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:113:17-69
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:113:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:115:17-77
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:115:27-74
+activity#cn.com.foton.Activity.MarketActivity
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:118:9-120:70
+	android:label
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:120:13-58
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:119:13-52
+activity#cn.com.foton.Will.Will_Activity
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:121:9-123:69
+	android:label
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:123:13-57
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:122:13-47
+activity#cn.com.foton.Will.Will_tab1_Activity
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:124:9-126:74
+	android:label
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:126:13-62
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:125:13-52
+activity#cn.com.foton.SettingActivity
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:127:9-129:71
+	android:label
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:129:13-59
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:128:13-44
+activity#cn.com.foton.allot.AllotActivity
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:130:9-132:69
+	android:label
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:132:13-57
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:131:13-48
+activity#cn.com.foton.allot.FgActivity
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:133:9-135:66
+	android:label
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:135:13-54
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:134:13-45
+activity#cn.com.foton.Will.Particular_tab1Activity
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:136:9-138:66
+	android:label
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:138:13-54
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:137:13-57
+activity#cn.com.foton.Wait.WaitActivity
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:139:9-141:68
+	android:label
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:141:13-56
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:140:13-46
+activity#cn.com.foton.Defeat.DefeatActivity
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:142:9-144:70
+	android:label
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:144:13-58
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:143:13-50
+activity#cn.com.foton.Defeat.FollowupActivity
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:145:9-147:72
+	android:label
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:147:13-60
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:146:13-52
+service#cn.jpush.android.service.PushService
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:151:9-161:19
+	android:enabled
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:153:13-35
+	android:exported
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:154:13-37
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:152:13-64
+intent-filter#cn.jpush.android.intent.PUSH_TIME+cn.jpush.android.intent.PushService+cn.jpush.android.intent.REGISTER+cn.jpush.android.intent.REPORT
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:155:13-160:29
+action#cn.jpush.android.intent.REGISTER
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:156:17-75
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:156:25-72
+action#cn.jpush.android.intent.REPORT
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:157:17-73
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:157:25-70
+action#cn.jpush.android.intent.PushService
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:158:17-78
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:158:25-75
+action#cn.jpush.android.intent.PUSH_TIME
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:159:17-76
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:159:25-73
+service#cn.jpush.android.service.DaemonService
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:165:9-174:19
+	android:enabled
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:167:13-35
+	android:exported
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:168:13-36
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:166:13-66
+intent-filter#cn.com.foton+cn.jpush.android.intent.DaemonService
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:169:13-173:29
+action#cn.jpush.android.intent.DaemonService
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:170:17-80
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:170:25-77
+category#cn.com.foton
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:172:17-57
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:172:27-54
+receiver#cn.jpush.android.service.PushReceiver
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:177:9-196:20
+	android:enabled
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:179:13-35
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:178:13-65
+intent-filter#cn.com.foton+cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:180:13-184:29
+	android:priority
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:180:28-51
+action#cn.jpush.android.intent.NOTIFICATION_RECEIVED_PROXY
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:181:17-94
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:181:25-91
+intent-filter#android.intent.action.USER_PRESENT+android.net.conn.CONNECTIVITY_CHANGE
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:185:13-188:29
+action#android.intent.action.USER_PRESENT
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:186:17-77
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:186:25-74
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:187:17-79
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:187:25-76
+intent-filter#android.intent.action.PACKAGE_ADDED+android.intent.action.PACKAGE_REMOVED
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:190:13-195:29
+action#android.intent.action.PACKAGE_ADDED
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:191:17-78
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:191:25-75
+action#android.intent.action.PACKAGE_REMOVED
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:192:17-80
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:192:25-77
+data
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:194:17-50
+	android:scheme
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:194:23-47
+activity#cn.jpush.android.ui.PushActivity
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:198:9-208:20
+	android:exported
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:201:13-37
+	android:configChanges
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:200:13-63
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:199:13-60
+intent-filter#android.intent.category.DEFAULT+cn.com.foton+cn.jpush.android.ui.PushActivity
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:202:13-207:29
+action#cn.jpush.android.ui.PushActivity
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:203:17-75
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:203:25-72
+category#android.intent.category.DEFAULT
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:205:17-76
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:205:27-73
+service#cn.jpush.android.service.DownloadService
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:210:9-213:48
+	android:enabled
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:212:13-35
+	android:exported
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:213:13-37
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:211:13-68
+receiver#cn.jpush.android.service.AlarmReceiver
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:215:9-75
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:215:19-72
+receiver#cn.com.foton.Receiver.MyBroadcastReceiver
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:218:9-238:20
+	android:enabled
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:220:13-35
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:219:13-57
+intent-filter#cn.com.foton+cn.jpush.android.intent.ACTION_RICHPUSH_CALLBACK+cn.jpush.android.intent.CONNECTION+cn.jpush.android.intent.MESSAGE_RECEIVED+cn.jpush.android.intent.NOTIFICATION_OPENED+cn.jpush.android.intent.NOTIFICATION_RECEIVED+cn.jpush.android.intent.REGISTRATION
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:221:13-237:29
+action#cn.jpush.android.intent.REGISTRATION
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:224:17-79
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:224:25-76
+action#cn.jpush.android.intent.MESSAGE_RECEIVED
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:226:17-83
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:226:25-80
+action#cn.jpush.android.intent.NOTIFICATION_RECEIVED
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:228:17-88
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:228:25-85
+action#cn.jpush.android.intent.NOTIFICATION_OPENED
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:230:17-86
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:230:25-83
+action#cn.jpush.android.intent.ACTION_RICHPUSH_CALLBACK
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:232:17-91
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:232:25-88
+action#cn.jpush.android.intent.CONNECTION
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:234:17-77
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:234:25-74
+meta-data#JPUSH_CHANNEL
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:246:9-248:49
+	android:value
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:248:13-46
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:247:13-41
+meta-data#JPUSH_APPKEY
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:250:9-252:56
+	android:value
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:252:13-53
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:251:13-40
+activity#cn.com.foton.BaseActivity
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:254:9-256:68
+	android:label
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:256:13-56
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:255:13-41
+activity#cn.com.foton.AddClue.AddClueActivity
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:257:9-259:72
+	android:label
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:259:13-60
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:258:13-52
+activity#cn.com.foton.Allclue.AllClueActivity
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:260:9-262:72
+	android:label
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:262:13-60
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:261:13-52
+activity#cn.com.foton.fragment.ParticularActivity
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:263:9-265:74
+	android:label
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:265:13-62
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:264:13-56
+activity#cn.com.foton.undistributed.UndistributedActivity
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:266:9-268:77
+	android:label
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:268:13-65
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:267:13-64
+activity#cn.com.foton.allot.PlanActivity
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:269:9-271:68
+	android:label
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:271:13-56
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:270:13-47
+activity#cn.com.foton.overtime.OvertimeActivity
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:272:9-274:72
+	android:label
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:274:13-60
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:273:13-54
+activity#cn.com.foton.Will.Plan_Activity
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:275:9-277:69
+	android:label
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:277:13-57
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:276:13-47
+activity#cn.com.foton.Will.Wil_tab2_Activity
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:278:9-280:73
+	android:label
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:280:13-61
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:279:13-51
+activity#cn.com.foton.The_report.The_reportActivity
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:281:9-283:74
+	android:label
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:283:13-62
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:282:13-58
+activity#cn.com.foton.jpush.MsmListActivity
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:284:9-286:72
+	android:label
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:286:13-60
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:285:13-50
+activity#cn.com.foton.Wait.WaitActivity2
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:287:9-65
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:287:19-53
+activity#cn.com.foton.Will.HistoryActivity
+ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:288:9-67
+	android:name
+		ADDED from F:\Files\foton2.0-gai1\app\src\main\AndroidManifest.xml:288:19-55

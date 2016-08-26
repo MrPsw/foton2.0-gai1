@@ -1,0 +1,290 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/LinearLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F0F0F2"
+    android:orientation="vertical"
+    tools:context="cn.com.foton.fragment.ParticularActivity" >
+
+    <include layout="@layout/actionbar" />
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:layout_marginTop="2dp"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_marginBottom="2dp"
+                android:background="#FFFFFF"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical"
+                    android:layout_margin="5dp"
+                    android:text="线索编号：" />
+
+                <TextView
+                    android:id="@+id/fcmBusinessId"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                               android:layout_gravity="center_vertical"
+                    android:layout_margin="5dp"
+                    android:text="" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_marginBottom="2dp"
+                android:background="#FFFFFF"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                               android:layout_gravity="center_vertical"
+                    android:layout_margin="5dp"
+                    android:text="客户姓名：" />
+
+                <TextView
+                    android:id="@+id/fcmCustomerName"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                               android:layout_gravity="center_vertical"
+                    android:layout_margin="5dp"
+                    android:text="" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_marginBottom="2dp"
+                android:background="#FFFFFF"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                               android:layout_gravity="center_vertical"
+                    android:text="联系电话：" />
+
+                <TextView
+                    android:id="@+id/fcmCustomerMobile"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                               android:layout_gravity="center_vertical"
+                    android:text="" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_marginBottom="2dp"
+                android:background="#FFFFFF"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                               android:layout_gravity="center_vertical"
+                    android:text="时间：" />
+
+                <TextView
+                    android:id="@+id/fcmCustomerCreateDate"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                               android:layout_gravity="center_vertical"
+                    android:text="" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_marginBottom="2dp"
+                android:background="#FFFFFF"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                               android:layout_gravity="center_vertical"
+                    android:text="意向购车时间：" />
+
+                <TextView
+                    android:id="@+id/fcmChangeType"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                               android:layout_gravity="center_vertical"
+                    android:text="" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_marginBottom="2dp"
+                android:background="#FFFFFF"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                               android:layout_gravity="center_vertical"
+                    android:text="意向车型：" />
+
+                <TextView
+                    android:id="@+id/fcmModelSeries"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                               android:layout_gravity="center_vertical"
+                    android:text="" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/View_gone"
+                android:layout_width="match_parent"
+                android:layout_height="30dp"
+                android:layout_marginBottom="2dp"
+                android:background="#FFFFFF"
+                android:orientation="horizontal" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                               android:layout_gravity="center_vertical"
+                    android:text="客户备注：" />
+
+                <TextView
+                    android:id="@+id/fcmCustomerNote"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                  	 android:layout_gravity="center_vertical"
+                    android:text="" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/L_GONE1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="#26C6DA"
+                android:orientation="vertical" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_margin="5dp"
+                    android:text=""
+                    android:textColor="#ffffff"
+                    android:textSize="18dp" />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/L_GONE2"
+        android:orientation="horizontal"
+        android:padding="5dp" >
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="时间" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="跟进进展" />
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="线索等级" />
+            <TextView
+            android:id="@+id/textV3"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:text="意向车型" />
+    </LinearLayout>
+
+    <ExpandableListView
+
+        android:id="@+id/list_record"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_weight="2.33" >
+    </ExpandableListView>
+
+    <LinearLayout
+        android:id="@+id/L_GONE4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="2dp"
+        android:background="#FFFFFF"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/boda"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:layout_margin="1dp"
+            android:layout_weight="1"
+            android:background="#29B6F6"
+            android:text="拨打电话"
+            android:textColor="@android:color/white" />
+
+        <Button
+            android:id="@+id/senSMS"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:layout_margin="1dp"
+            android:layout_weight="1"
+            android:background="#29B6F6"
+            android:text="发送短信"
+            
+            android:textColor="@android:color/white" />
+
+        <Button
+            android:id="@+id/button3"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:layout_margin="1dp"
+            android:layout_weight="1"
+            android:background="#29B6F6"
+            android:text="计划及进展"
+            android:textColor="@android:color/white" />
+    </LinearLayout>
+
+</LinearLayout>

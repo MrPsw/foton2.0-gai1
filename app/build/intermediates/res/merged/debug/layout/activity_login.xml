@@ -1,0 +1,156 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/logint"
+    android:layout_gravity="center_horizontal"
+    tools:context="com.example.fukuda.LoginActivity" >
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="20dp"
+      	android:layout_alignParentLeft="true"
+        android:src="@drawable/logo" />
+	<TextView 
+	    android:id="@+id/title"
+	    android:layout_below="@+id/imageView1"
+	    android:layout_height="wrap_content"
+	    android:layout_width="wrap_content"
+	    android:text="福田经销商"
+	    android:layout_margin="10dp"
+	    android:textStyle="bold"
+	    android:layout_centerHorizontal="true"
+	    android:textSize="27dp"
+	    />
+    <LinearLayout
+        android:background="@drawable/input2"
+        android:layout_below="@+id/title"
+        android:id="@+id/linearLayout1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+    	android:orientation="horizontal"
+        android:layout_marginTop="20dp"
+  		android:layout_centerHorizontal="true"
+         >
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:layout_marginLeft="5dp"
+            android:src="@drawable/user" />
+        <ImageView
+           
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+           android:src="@drawable/fenge" />
+         <EditText
+        android:id="@+id/edit_user"
+        android:layout_width="wrap_content"
+    	android:layout_margin="4dp"
+        android:layout_height="30dp"
+        android:layout_below="@+id/imageView1"
+        android:layout_marginLeft="18dp"
+        android:background="#ffffff"
+
+        android:layout_toRightOf="@+id/linearLayout1"
+        android:ems="10" >
+ 
+    </EditText>
+    </LinearLayout>
+
+  
+
+    <LinearLayout
+        android:id="@+id/linearLayout2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/linearLayout1"
+        android:layout_below="@+id/linearLayout1"
+        android:layout_marginTop="31dp"
+        android:orientation="horizontal"
+        android:background="@drawable/input2" >
+
+        <ImageView
+            android:id="@+id/imageView3"
+            android:layout_width="wrap_content"
+             
+            android:layout_height="40dp"
+            android:layout_marginLeft="5dp"
+            android:src="@drawable/password" />
+           <ImageView
+           
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+           	android:src="@drawable/fenge" />
+		<TextView
+		    android:layout_width="1dp"
+            android:layout_height="wrap_content" 
+            android:text="1"
+            android:textColor="#000000"
+		    />
+        <EditText
+            android:id="@+id/edit_pass"
+            android:layout_width="wrap_content"
+             	android:layout_margin="4dp"
+            android:layout_height="30dp"
+            android:layout_below="@+id/imageView1"
+            android:layout_marginLeft="18dp"
+            android:layout_toRightOf="@+id/linearLayout1"
+           android:background="#ffffff"
+            android:padding="2dp"
+            android:ems="10"
+            android:inputType="textPassword" />
+    </LinearLayout>
+
+  <Button
+      android:id="@+id/login"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:layout_alignLeft="@+id/linearLayout2"
+      android:layout_alignRight="@+id/linearLayout2"
+      android:layout_below="@+id/linearLayout2"
+      android:layout_marginTop="46dp"
+      android:textColor="#ffffff"
+      
+      android:background="@drawable/denglu"
+      android:text="登录" />
+<LinearLayout 
+    
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:layout_marginTop="5dp"
+     android:layout_below="@+id/linearLayout2"
+         android:layout_alignRight="@+id/login"
+    >
+  <CheckBox
+      android:id="@+id/checkBox1"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+  		android:background="@drawable/fxk2"
+      android:checked="false"
+      android:button="@null"
+ 		android:textColor="#B7B5B7" />
+  <TextView 
+     android:layout_alignLeft="@+id/checkBox1"
+    android:layout_alignBottom="@+id/checkBox1"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:text="记住密码"
+      />
+</LinearLayout>
+
+<TextView 
+    android:id="@+id/versions"
+    android:layout_alignParentBottom="true"
+    android:layout_marginLeft="5dp"
+    android:layout_marginBottom="5dp"
+   	android:layout_alignParentLeft="true"
+    android:layout_width="match_parent"
+    android:text="版本号：V1.2"
+    android:layout_height="wrap_content"/>
+</RelativeLayout>

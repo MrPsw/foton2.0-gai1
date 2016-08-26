@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="arm64-v8a,armeabi-v7a,armeabi"
+    api-level="21"
+    density="xxhdpi"
+    format="7"
+    timestamp="236810368349"
+    token="-7449763192196080849" >
+
+    <task
+        name="javac"
+        duration="15746" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="4276" />
+    <task
+        name="verifier"
+        duration="798" />
+
+    <artifact
+        location="F:\Files\foton2.0-gai1\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="236810368349" >
+        <artifact
+            location="F:\Files\foton2.0-gai1\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

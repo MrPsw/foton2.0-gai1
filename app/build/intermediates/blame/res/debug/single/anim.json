@@ -1,0 +1,110 @@
+[
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\popshow_anim.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\anim\\popshow_anim.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\svfade_in_center.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.bigkoo\\svprogresshud\\1.0.6\\res\\anim\\svfade_in_center.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\svfade_out_center.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.bigkoo\\svprogresshud\\1.0.6\\res\\anim\\svfade_out_center.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\tip.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\anim\\tip.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\svslide_in_top.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.bigkoo\\svprogresshud\\1.0.6\\res\\anim\\svslide_in_top.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\svslide_out_bottom.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.bigkoo\\svprogresshud\\1.0.6\\res\\anim\\svslide_out_bottom.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\pophidden_anim.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\anim\\pophidden_anim.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\svslide_out_top.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.bigkoo\\svprogresshud\\1.0.6\\res\\anim\\svslide_out_top.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\reverse_anim.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\anim\\reverse_anim.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.1.1\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.1.1\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\rotating.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\anim\\rotating.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.1.1\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.1.1\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\svslide_in_bottom.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.bigkoo\\svprogresshud\\1.0.6\\res\\anim\\svslide_in_bottom.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.1.1\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.1.1\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\anim\\abc_slide_out_bottom.xml"
+    }
+]

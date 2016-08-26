@@ -1,0 +1,466 @@
+[
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_allot_item.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\layout\\list_allot_item.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_svprogresshud.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.bigkoo\\svprogresshud\\1.0.6\\res\\layout\\layout_svprogresshud.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_setting.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\waitlayout.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\layout\\waitlayout.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_defeat_item.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\layout\\list_defeat_item.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_overtime.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\layout\\activity_overtime.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_will_tab1_.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\layout\\activity_will_tab1_.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_particular.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\layout\\activity_particular.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_fg.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\layout\\activity_fg.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.1.1\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_history.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\layout\\activity_history.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_plan.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\layout\\activity_plan.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\load_more.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\layout\\load_more.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_test.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\layout\\activity_test.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_allfragment_item1.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\layout\\list_allfragment_item1.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_selector3.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\layout\\dialog_selector3.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout3.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\layout\\layout3.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\frafgment_allot.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\layout\\frafgment_allot.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_msm_list.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\layout\\activity_msm_list.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.1.1\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_market.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\layout\\activity_market.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout2.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\layout\\layout2.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\recor_list_item.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\layout\\recor_list_item.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_footer.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\layout\\listview_footer.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_selector2.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\layout\\dialog_selector2.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_all_clue.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\layout\\activity_all_clue.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_wait_item2.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\layout\\list_wait_item2.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_undistributed.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\layout\\activity_undistributed.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\popview_ite.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\layout\\popview_ite.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_datetime.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\layout\\common_datetime.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\actionbar.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\layout\\actionbar.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.1.1\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.1.1\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wait.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\layout\\activity_wait.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment3.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\layout\\fragment3.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_the_report.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\layout\\activity_the_report.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment6.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\layout\\fragment6.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.1.1\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.1.1\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\jpush_popwin_layout.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\layout\\jpush_popwin_layout.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.1.1\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment4.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\layout\\fragment4.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_image_cycle.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\layout\\view_image_cycle.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_defeat.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\layout\\activity_defeat.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\jpush_webview_layout.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\layout\\jpush_webview_layout.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toast_image.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\layout\\toast_image.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_item.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\layout\\fragment_item.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\my_dialog.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\layout\\my_dialog.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_will_.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\layout\\activity_will_.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\gridview_item.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\layout\\gridview_item.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\poup_item.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\layout\\poup_item.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_followup.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\layout\\activity_followup.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_wil_tab2_.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\layout\\activity_wil_tab2_.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_tab_item.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\layout\\list_tab_item.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\viewpager_item.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\layout\\viewpager_item.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment5.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\layout\\fragment5.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_allot.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\layout\\activity_allot.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.1.1\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.1.1\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment2.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\layout\\fragment2.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_plan_.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\layout\\activity_plan_.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\msglist_item.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\layout\\msglist_item.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment1.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\layout\\fragment1.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\progressdialog.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\layout\\progressdialog.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\refresh_head.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\layout\\refresh_head.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.1.1\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_wait_item3.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\layout\\list_wait_item3.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_allot_item.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\layout\\fragment_allot_item.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tishi.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\layout\\tishi.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_svprogressdefault.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.bigkoo\\svprogresshud\\1.0.6\\res\\layout\\view_svprogressdefault.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_selector.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\layout\\dialog_selector.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout1.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\layout\\layout1.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_clue.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\layout\\activity_add_clue.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.1.1\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.1.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\24.1.1\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "F:\\Files\\foton2.0-gai1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\actionbar2.xml",
+        "source": "F:\\Files\\foton2.0-gai1\\app\\src\\main\\res\\layout\\actionbar2.xml"
+    }
+]

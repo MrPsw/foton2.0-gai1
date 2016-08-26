@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/RelativeLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#FFFFFF"
+    android:descendantFocusability="blocksDescendants"
+    android:orientation="vertical" >
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="60dp"
+        android:layout_height="60dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="5dp"
+        android:src="@drawable/futianqiche" />
+
+    <TextView
+        android:id="@+id/CustomerNamewait"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/imageView1"
+        android:layout_toRightOf="@+id/imageView1"
+        android:text="张三"
+        android:textColor="#5b41f0"
+        android:textSize="15dp" />
+
+    <TextView
+        android:id="@+id/CustomerSexwait"
+        style="@style/text_style"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/CustomerNamewait"
+        android:layout_alignBottom="@+id/CustomerNamewait"
+        android:layout_marginLeft="5dp"
+        android:layout_toRightOf="@+id/CustomerNamewait"
+        android:text="男" />
+
+    <TextView
+        android:id="@+id/CustomerMobilewait"
+        style="@style/text_style"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/CustomerSexwait"
+        android:layout_alignBottom="@+id/CustomerSexwait"
+        android:layout_marginLeft="8dp"
+        android:layout_toRightOf="@+id/CustomerSexwait"
+        android:text="13252521422" />
+
+    <TextView
+        android:id="@+id/textView4"
+        style="@style/text_style"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/CustomerMobilewait"
+        android:layout_alignBottom="@+id/CustomerMobilewait"
+        android:layout_marginLeft="5dp"
+        android:layout_toRightOf="@+id/CustomerMobilewait"
+        android:text="客户城市:" />
+
+    <TextView
+        android:id="@+id/textView6"
+        style="@style/text_style"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/CustomerNamewait"
+        android:layout_below="@+id/CustomerNamewait"
+        android:layout_marginTop="5dp"
+        android:text="意向车型:" />
+
+    <TextView
+        android:id="@+id/ModelSerieswait"
+        style="@style/text_style"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/textView6"
+        android:layout_toRightOf="@+id/textView6"
+        android:text="赛瓦纳" />
+
+    <TextView
+        android:id="@+id/CustomerLevelwait"
+        style="@style/text_style"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/textView8"
+        android:layout_toRightOf="@+id/textView8"
+        android:text="A" />
+
+    <TextView
+        android:id="@+id/textView8"
+        style="@style/text_style"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/ModelSerieswait"
+        android:layout_alignBottom="@+id/ModelSerieswait"
+        android:layout_toRightOf="@+id/CustomerMobilewait"
+        android:text="线索等级:" />
+
+    <TextView
+        android:layout_marginTop="4dp"
+        android:id="@+id/textView10"
+        style="@style/text_style"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/imageView1"
+        android:layout_toRightOf="@+id/imageView1"
+        android:text="线索来源:" />
+
+    <TextView
+        android:id="@+id/fcmInfoWaywait"
+        style="@style/text_style"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/textView10"
+        android:layout_alignLeft="@+id/CustomerMobilewait"
+        android:text="外部来源" />
+
+    <TextView
+        android:id="@+id/textView5"
+        style="@style/text_style"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/textView4"
+        android:layout_alignBottom="@+id/textView4"
+        android:layout_toRightOf="@+id/CustomerLevelwait"
+        android:text="上海" />
+
+    
+
+    <TextView
+        android:layout_marginTop="4dp"
+        android:id="@+id/CustomerCreateDatewait"
+        style="@style/text_style"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/textView10"
+        android:layout_below="@+id/textView10"
+        android:text="2016-03-29  16:59" />
+
+    <ImageButton
+        android:focusable="false"
+        android:id="@+id/imageButton1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/textView5"
+        android:background="@android:color/white"
+        android:layout_centerVertical="true"
+        android:src="@drawable/go" />
+
+    <TextView
+        android:id="@+id/textView12"
+           style="@style/text_style"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/textView8"
+        android:layout_alignTop="@+id/fcmInfoWaywait"
+        android:text="已分配至：" />
+
+    <TextView
+        android:id="@+id/textView13"
+          style="@style/text_style"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/textView12"
+        android:layout_toRightOf="@+id/textView12"
+        android:text="王2" />
+
+</RelativeLayout>

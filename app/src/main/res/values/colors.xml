@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#03A9F4</color>
+    <color name="colorPrimaryDark">#03A9F4</color>
+    <color name="colorAccent">#0000</color>
+    <color name="xz">#9ccc65</color>
+    <color name="wxz">#29b6f6</color>
+    <color name="dianjile">#29B6F6</color>   
+ 	<color name="weidianji">#FFFFFF</color>
+ 	<color name="white">#ffffff</color>
+</resources>

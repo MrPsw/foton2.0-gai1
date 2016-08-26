@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+ <drawable name="dianjile">#29B6F6</drawable>   
+ <drawable name="weidianji">#FFFFFF</drawable>
+
+    <color name="black">#000000</color>
+    <color name="gray">#000000</color>
+    <color name="light_blue">#000000</color>
+</resources>

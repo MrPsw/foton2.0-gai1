@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+
+    android:orientation="vertical"
+   android:background="@drawable/list_item"
+    android:layout_marginLeft="2dp"
+    android:padding="4dp"
+    
+ 	android:dividerPadding="2dp"
+    android:layout_marginRight="2dp" >
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textSize="18dp"
+        android:textColor="#1C86EE"
+        android:padding="4dp"
+        android:text="标题"
+         />
+
+    <LinearLayout
+      
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal" >
+
+        <TextView
+        
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" 
+            android:text="客户姓名："
+            />
+            <TextView
+            android:id="@+id/name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" 
+          	android:text="暂无数据"
+            />
+              <TextView
+      android:layout_marginLeft="4dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" 
+            android:text="电话："
+            />
+                 <TextView
+            android:id="@+id/tel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" 
+          android:text="暂无数据"
+            />
+    </LinearLayout>
+      <LinearLayout
+      
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal" >
+
+        <TextView
+           
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" 
+            android:text="意向车型："
+            />
+            <TextView
+            android:id="@+id/che"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" 
+         	android:text="暂无数据"
+            />
+              <TextView
+           android:layout_marginLeft="4dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" 
+            android:text="意向购车时间："
+            />
+                 <TextView
+            android:id="@+id/tiem"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" 
+           android:text="暂无数据"
+            />
+    </LinearLayout>
+   <LinearLayout 
+        android:visibility="gone"  
+       android:id="@+id/zhanbai1is"
+       android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+       >
+        <TextView
+           
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" 
+            android:text="战败原因："
+            />
+            <TextView
+           
+            android:id="@+id/zhanbai"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" 
+         	android:text="暂无数据"
+            />
+       
+   </LinearLayout>
+
+</LinearLayout>
