@@ -6,119 +6,119 @@
         jumboMode="true"
         revision="24.0.1"
         sha1="b63b092a660a70370a05e00be60fd2b4ed290fcb">
-        <dex dex="F:\Files\foton2.0-gai1\app\build\intermediates\transforms\dex\debug\folders\1000\2\baidumapapi_v3_5_0_3828c1b023e6bb504d1338aee0695c89df5d69ce\classes.dex" />
-    </item>
-    <item
-        jar="F:\Files\foton2.0-gai1\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
-        <dex dex="F:\Files\foton2.0-gai1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.1.1_f2f022df88a5389f4330505c80afaf8ff7df40aa\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Mr.peng\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\24.1.1\3af19f153122737b372622fa6c81dd11a1c6b999\support-annotations-24.1.1.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
-        <dex dex="F:\Files\foton2.0-gai1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.1.1_e0e51daa1c160a51c40e2a62ebe439f31cea8ef3\classes.dex" />
-    </item>
-    <item
-        jar="F:\Files\foton2.0-gai1\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
-        <dex dex="F:\Files\foton2.0-gai1\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.1.1_90804f68e3ed1991d559d922f2549107f7f1808b\classes.dex" />
-    </item>
-    <item
-        jar="F:\Files\foton2.0-gai1\app\libs\jpush-android-2.1.3.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="fad60eea64007823d74948fc6708371dee57fe36">
-        <dex dex="F:\Files\foton2.0-gai1\app\build\intermediates\transforms\dex\debug\folders\1000\2\jpush-android-2.1.3_d5a091e281a58d4e287c1fed8e3c5d85405eb05c\classes.dex" />
-    </item>
-    <item
-        jar="F:\Files\foton2.0-gai1\app\libs\okio-1.6.0.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="98476622f10715998eacf9240d6b479f12c66143">
-        <dex dex="F:\Files\foton2.0-gai1\app\build\intermediates\transforms\dex\debug\folders\1000\2\okio-1.6.0_01405aac021122ca5ac40b4347ab2b0a999c8ef1\classes.dex" />
-    </item>
-    <item
-        jar="F:\Files\foton2.0-gai1\app\build\intermediates\exploded-aar\com.bigkoo\svprogresshud\1.0.6\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="9a5538db04156f8a3901002870b8b81a6d99cfad">
-        <dex dex="F:\Files\foton2.0-gai1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.bigkoo-svprogresshud-1.0.6_b0b1f300347e711e2a8778533589bf40d1311430\classes.dex" />
-    </item>
-    <item
-        jar="F:\Files\foton2.0-gai1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="279b62607de692d33a615a2ae09d639e62f6ea6e">
-        <dex dex="F:\Files\foton2.0-gai1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c82234acb3e534a12f000f981c6dbd0b1031a90c\classes.dex" />
-    </item>
-    <item
-        jar="F:\Files\foton2.0-gai1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="0b49d622bf19585fe3a9d749d961d25c392cbd15">
-        <dex dex="F:\Files\foton2.0-gai1\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_129f4c3755ab6ea48d2451951a4aa5cd89f167a6\classes.dex" />
-    </item>
-    <item
-        jar="F:\Files\foton2.0-gai1\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.1.1\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.1"
-        sha1="787871951412550519b0222aba3c9df4cea49875">
-        <dex dex="F:\Files\foton2.0-gai1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-24.1.1_40b5a259636a0138924e474c41a11679e36587e4\classes.dex" />
+        <dex dex="F:\Files\foton2.0-gai1\app\build\intermediates\pre-dexed\debug\baidumapapi_v3_5_0_3828c1b023e6bb504d1338aee0695c89df5d69ce.jar" />
     </item>
     <item
         jar="F:\Files\foton2.0-gai1\app\libs\okhttp-2.5.0.jar"
         jumboMode="true"
         revision="24.0.1"
         sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
-        <dex dex="F:\Files\foton2.0-gai1\app\build\intermediates\transforms\dex\debug\folders\1000\2\okhttp-2.5.0_00d78ccce01520dcad809354b21d4345d301320b\classes.dex" />
+        <dex dex="F:\Files\foton2.0-gai1\app\build\intermediates\pre-dexed\debug\okhttp-2.5.0_00d78ccce01520dcad809354b21d4345d301320b.jar" />
+    </item>
+    <item
+        jar="F:\Files\foton2.0-gai1\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c936c1bd42f0c018c18920c7bec619ef056b24f8">
+        <dex dex="F:\Files\foton2.0-gai1\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.1.1_f2f022df88a5389f4330505c80afaf8ff7df40aa.jar" />
+    </item>
+    <item
+        jar="C:\Users\Mr.peng\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\24.1.1\3af19f153122737b372622fa6c81dd11a1c6b999\support-annotations-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="F:\Files\foton2.0-gai1\app\build\intermediates\pre-dexed\debug\support-annotations-24.1.1_e0e51daa1c160a51c40e2a62ebe439f31cea8ef3.jar" />
+    </item>
+    <item
+        jar="F:\Files\foton2.0-gai1\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\libs\internal_impl-24.1.1.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="F:\Files\foton2.0-gai1\app\build\intermediates\pre-dexed\debug\internal_impl-24.1.1_90804f68e3ed1991d559d922f2549107f7f1808b.jar" />
     </item>
     <item
         jar="F:\Files\foton2.0-gai1\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.1.1\jars\classes.jar"
         jumboMode="true"
         revision="24.0.1"
         sha1="f62e763609f65e47dc6c498760a4accf02776788">
-        <dex dex="F:\Files\foton2.0-gai1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.1.1_4c33f15dfae09e5219f0d27f4616134f893b975a\classes.dex" />
+        <dex dex="F:\Files\foton2.0-gai1\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.1.1_4c33f15dfae09e5219f0d27f4616134f893b975a.jar" />
+    </item>
+    <item
+        jar="F:\Files\foton2.0-gai1\app\libs\jpush-android-2.1.3.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="fad60eea64007823d74948fc6708371dee57fe36">
+        <dex dex="F:\Files\foton2.0-gai1\app\build\intermediates\pre-dexed\debug\jpush-android-2.1.3_d5a091e281a58d4e287c1fed8e3c5d85405eb05c.jar" />
     </item>
     <item
         jar="F:\Files\foton2.0-gai1\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.1.1\jars\classes.jar"
         jumboMode="true"
         revision="24.0.1"
         sha1="6d7d803871e3203465f71a163e7af104f807b446">
-        <dex dex="F:\Files\foton2.0-gai1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.1.1_ba63f0fd79be5e76dc2239087f5b8cf65bff968e\classes.dex" />
+        <dex dex="F:\Files\foton2.0-gai1\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.1.1_ba63f0fd79be5e76dc2239087f5b8cf65bff968e.jar" />
+    </item>
+    <item
+        jar="F:\Files\foton2.0-gai1\app\libs\okio-1.6.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="F:\Files\foton2.0-gai1\app\build\intermediates\pre-dexed\debug\okio-1.6.0_01405aac021122ca5ac40b4347ab2b0a999c8ef1.jar" />
+    </item>
+    <item
+        jar="F:\Files\foton2.0-gai1\app\build\intermediates\exploded-aar\com.bigkoo\svprogresshud\1.0.6\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="9a5538db04156f8a3901002870b8b81a6d99cfad">
+        <dex dex="F:\Files\foton2.0-gai1\app\build\intermediates\pre-dexed\debug\com.bigkoo-svprogresshud-1.0.6_b0b1f300347e711e2a8778533589bf40d1311430.jar" />
     </item>
     <item
         jar="C:\android-studio\gradle\m2repository\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar"
         jumboMode="true"
         revision="24.0.1"
         sha1="a60a5e993c98c864010053cb901b7eab25306568">
-        <dex dex="F:\Files\foton2.0-gai1\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.2.4_9e6514c67944439d98e2ee82d4092f4198360c2e\classes.dex" />
+        <dex dex="F:\Files\foton2.0-gai1\app\build\intermediates\pre-dexed\debug\gson-2.2.4_9e6514c67944439d98e2ee82d4092f4198360c2e.jar" />
     </item>
     <item
         jar="F:\Files\foton2.0-gai1\app\build\intermediates\exploded-aar\com.android.support\design\24.1.1\jars\classes.jar"
         jumboMode="true"
         revision="24.0.1"
         sha1="e195bd694d5389acfba27ff4fdfa64c4c65b2c05">
-        <dex dex="F:\Files\foton2.0-gai1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-24.1.1_cdd3f2d53231fdc4e9ce55cab5ad167f07de55e6\classes.dex" />
+        <dex dex="F:\Files\foton2.0-gai1\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.1.1_cdd3f2d53231fdc4e9ce55cab5ad167f07de55e6.jar" />
+    </item>
+    <item
+        jar="F:\Files\foton2.0-gai1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c91025f83612ed273b4eb2e0db50d9e323f9dda9">
+        <dex dex="F:\Files\foton2.0-gai1\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_c82234acb3e534a12f000f981c6dbd0b1031a90c.jar" />
+    </item>
+    <item
+        jar="F:\Files\foton2.0-gai1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="5b2045d7fb554306497f18ddac6cd9a9a83e3c1b">
+        <dex dex="F:\Files\foton2.0-gai1\app\build\intermediates\pre-dexed\debug\instant-run_129f4c3755ab6ea48d2451951a4aa5cd89f167a6.jar" />
     </item>
     <item
         jar="F:\Files\foton2.0-gai1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.1.1\jars\classes.jar"
         jumboMode="true"
         revision="24.0.1"
         sha1="1256c10604bb098490eab070d76754ac5ceab35c">
-        <dex dex="F:\Files\foton2.0-gai1\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.1.1_838637326ac8f8ae8276e31c3f4b80ccfc72703a\classes.dex" />
+        <dex dex="F:\Files\foton2.0-gai1\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.1.1_838637326ac8f8ae8276e31c3f4b80ccfc72703a.jar" />
+    </item>
+    <item
+        jar="F:\Files\foton2.0-gai1\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.1.1\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="787871951412550519b0222aba3c9df4cea49875">
+        <dex dex="F:\Files\foton2.0-gai1\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.1.1_40b5a259636a0138924e474c41a11679e36587e4.jar" />
     </item>
     <item
         jar="F:\Files\foton2.0-gai1\app\libs\locSDK_6.23.jar"
         jumboMode="true"
         revision="24.0.1"
         sha1="6cff92d8446c1ac178a1440b926ff2a937c02b81">
-        <dex dex="F:\Files\foton2.0-gai1\app\build\intermediates\transforms\dex\debug\folders\1000\2\locSDK_6.23_b93a26fd86325bab94b4a70adbc46d7a65c50907\classes.dex" />
+        <dex dex="F:\Files\foton2.0-gai1\app\build\intermediates\pre-dexed\debug\locSDK_6.23_b93a26fd86325bab94b4a70adbc46d7a65c50907.jar" />
     </item>
 
 </items>

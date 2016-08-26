@@ -115,6 +115,11 @@ public class Plan_Activity extends Activity implements OnClickListener {
 	Context context=Plan_Activity.this;
 	private TextView yuanyin;
 
+	/**
+	 * 1正常2成交3战败4废弃
+	 */
+	int caseid;
+
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
@@ -169,34 +174,10 @@ public class Plan_Activity extends Activity implements OnClickListener {
 		
 		return bodt;
 	}
-	public RequestBody getBoay2(String Note,String FollowupNote) {
+	public RequestBody getBoay2(String Note) {
 
-
-		RequestBody bodt = new FormEncodingBuilder()
-				.add("fcmVisit.fcmUserId", userId)
-				.add("fcmVisit.fcmPositionId", positionId)
-				.add("fcmVisit.fcmCompanyCode", companyCode)
-				.add("fcmVisit.fcmDealerCode", dealerCode)
-				.add("fcmVisit.fcmCustomerId", fcmCustomerId + "")
-				.add("fcmVisit.fcmBusinessId", fcmBusinessId + "")
-				.add("fcmVisit.fcmPlanId",fcmPlanId)
-				.add("fcmVisit.fcmResult", sp1text)
-//				.add("fcmVisit.fcmLeadLevel", level + "")
-//				.add("fcmVisit.fcmAttentionModel", model + "")
-				.add("fcmVisit.fcmFollowupNote",FollowupNote+"")
- //.add("fcmCustomerNote", CustomerNote)
-				.add("fcmVisit.fcmNote", Note)
-				.build();
-
-		
-		return bodt;
-	}
-	public RequestBody getBoay3(String Note, String level, String model,String CustomerNote,String FollowupNote,String fangshi,String tiem) {
-
-
-		
-		Log.e(TAG, fcmRevisitId);
-
+		//备注
+		String fcmFollowupNote = et2.getText().toString();
 		RequestBody bodt = new FormEncodingBuilder()
 				.add("fcmVisit.fcmUserId", userId)
 				.add("fcmVisit.fcmCompanyCode", companyCode)
@@ -206,15 +187,44 @@ public class Plan_Activity extends Activity implements OnClickListener {
 				.add("fcmVisit.fcmCustomerId", fcmCustomerId + "")
 				.add("fcmVisit.fcmBusinessId", fcmBusinessId + "")
 				.add("fcmVisit.fcmResult", sp1text)
-				.add("fcmVisit.fcmNextPlanDateBegin", b.getText().toString() + "")
-				.add("fcmVisit.fcmNextPlanDateEnd",b2.getText().toString() + "")
 				.add("fcmVisit.fcmCustomerName",base.fcmCustomerName)
 				.add("fcmVisit.fcmMobile", base.fcmCustomerMobile)
 				.add("fcmVisit.fcmTel", "")
 				.add("fcmVisit.fcmRevisitId",base.fcmRevisitId)
 				.add("fcmVisit.fcmIntentionSeries",sp3text)
-				.add("fcmVisit.fcmResultNote","")
-				.add("fcmVisit.fcmResultSureBuy","")
+				.add("fcmVisit.fcmResultNote",fcmFollowupNote)
+				.add("fcmVisit.fcmRevisitGroup",base.fcmRevisitGroup)
+				.add("fcmVisit.fcmResultBuyReason",sp7text)
+				.build();
+		
+		return bodt;
+	}
+
+	public RequestBody getBoay3() {
+			//备注
+		String fcmFollowupNote = et2.getText().toString();
+		Log.e(TAG, fcmRevisitId);
+
+		String tiemstrat = TiemUtils.getTiemYMD(b.getText().toString());
+		String endstrat = TiemUtils.getTiemYMD(b2.getText().toString());
+		RequestBody bodt = new FormEncodingBuilder()
+				.add("fcmVisit.fcmUserId", userId)
+				.add("fcmVisit.fcmCompanyCode", companyCode)
+				.add("fcmVisit.fcmDealerCode", dealerCode)
+				.add("fcmVisit.fcmInfoWay", base.fcmInfoWay)
+				.add("fcmVisit.fcmRevisitCount", base.fcmRevisitCount)
+				.add("fcmVisit.fcmCustomerId", fcmCustomerId + "")
+				.add("fcmVisit.fcmBusinessId", fcmBusinessId + "")
+				.add("fcmVisit.fcmResult", sp1text)
+				.add("fcmVisit.fcmNextPlanDateBegin",tiemstrat)
+				.add("fcmVisit.fcmNextPlanDateEnd",endstrat)
+				.add("fcmVisit.fcmCustomerName",base.fcmCustomerName)
+				.add("fcmVisit.fcmMobile", base.fcmCustomerMobile)
+				.add("fcmVisit.fcmTel", "")
+				.add("fcmVisit.fcmRevisitId",base.fcmRevisitId)
+				.add("fcmVisit.fcmIntentionSeries",sp3text)
+				.add("fcmVisit.fcmResultNote",fcmFollowupNote)
+				.add("fcmVisit.fcmResultSureBuy",sp2text)
 				.add("fcmVisit.fcmRevisitGroup",base.fcmRevisitGroup)
 
 				.build();
@@ -249,7 +259,7 @@ public class Plan_Activity extends Activity implements OnClickListener {
 		sp6 = (Button) findViewById(R.id.spinner6);
 		sp7 = (Button) findViewById(R.id.spinner7);
 		sp8 = (Button) findViewById(R.id.spinner8);
-		et1 = (EditText) findViewById(R.id.editText1);
+
 		et2 = (EditText) findViewById(R.id.editText2);
 		yuanyin=(TextView)findViewById(R.id.yuanyin);
 
@@ -280,7 +290,7 @@ public class Plan_Activity extends Activity implements OnClickListener {
 			@Override
 			public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
 				if(position==2||position==6||position==5){
-
+					caseid=1;
 					li2.setVisibility(View.GONE);
 					li3.setVisibility(View.GONE);
 					li4.setVisibility(View.GONE);
@@ -307,11 +317,12 @@ public class Plan_Activity extends Activity implements OnClickListener {
 					li4.setVisibility(View.GONE);
 					if(position==0){
 						li2.setVisibility(View.VISIBLE);
-
+						caseid=2;
 					}else if(position==3||position==4){
 					li3.setVisibility(View.VISIBLE);
-
+						caseid=3;
 					}else if(position==7){
+						caseid=4;
 						li4.setVisibility(View.VISIBLE);
 					}
 				}else{
@@ -543,7 +554,7 @@ public class Plan_Activity extends Activity implements OnClickListener {
 	private ArrayList<String> Codename2;
 	private ArrayList<String> Codename3;
 	private ArrayList<String> code3;
-	private EditText et1;
+
 	private EditText et2;
 
 	private TextView tv;
@@ -589,15 +600,12 @@ public class Plan_Activity extends Activity implements OnClickListener {
 		case R.id.submit:
 
 		
-			if (sp2.isShown()) {
+			if (caseid==1) {
 				
-				dialog=new IOSdialog(Plan_Activity.this, "获取数据");
-				System.out.println("主界面显示");
-				String CustomerNote = et1.getText().toString();
-				String fcmFollowupNote = et2.getText().toString();
-				System.out.println(CustomerNote+fcmFollowupNote+"输入框");
-				String tiem = b.getText().toString().trim();
-				tiem = TiemUtils.getTiemYMD(tiem);
+				dialog=new IOSdialog(Plan_Activity.this, "正在提交");
+
+
+
 				if(sp2text==""||sp2text==null){
 					if(base.fcmChangeType==""||base.fcmChangeType==null){
 						sp2text=code2.get(0);
@@ -613,29 +621,28 @@ public class Plan_Activity extends Activity implements OnClickListener {
 					}
 				}
 				
-				RequestBody body = getBoay3("",sp2text, sp3text,CustomerNote,fcmFollowupNote,sp4text,tiem);
-				myHttp2 http = new myHttp2(body, App_url.URLSP1, H, 2, Plan_Activity.this);
-				http.start();
-				System.out.println("tiem" + tiem);
+				RequestBody body = getBoay3();
+				 new myHttp2(body, App_url.URLSP1, H, 2, Plan_Activity.this).start();
 
-//				RequestBody body2 = getBoay2(sp4text, tiem);
-//				myHttp2 http2 = new myHttp2(body2, App_url.URLS, H, 3, Plan_Activity.this);
-//				http2.start();
-			} else if (sp6.isShown()) {
-				dialog=new IOSdialog(Plan_Activity.this, "获取数据");
+			} else if (caseid==2) {
+				dialog=new IOSdialog(Plan_Activity.this, "正在提交");
+					if(sp7text==""||sp7text==null){
+					Toast.makeText(Plan_Activity.this, "请选择选择原因", Toast.LENGTH_LONG).show();
+					dialog.close();
+					}else{
+					RequestBody body = getBoay2(sp7text);
+					new myHttp2(body, App_url.URLSP1, H, 3, Plan_Activity.this).start();
+					}
 
+			} else if (caseid==3) {
+					dialog=new IOSdialog(Plan_Activity.this, "正在提交");
+					if(sp7text==""||sp7text==null){
+					Toast.makeText(Plan_Activity.this, "请选择选择原因", Toast.LENGTH_LONG).show();
+					dialog.close();
+					}else{
+					RequestBody body = getBoay2(sp7text);
+					new myHttp2(body, App_url.URLSP1, H, 3, Plan_Activity.this).start();
 
-				} else if (sp7.isShown()) {
-					dialog=new IOSdialog(Plan_Activity.this, "获取数据");
-
-				System.out.println("战败显示");
-				if(sp7text==""||sp7text==null){
-				Toast.makeText(Plan_Activity.this, "请选择选择原因或输入原因", Toast.LENGTH_LONG).show();
-				dialog.close();
-				}else{
-				RequestBody body = getBoay2(sp7text,"");
-				myHttp2 http = new myHttp2(body, App_url.URLSP1, H, 3, Plan_Activity.this);
-				http.start();
 				
 				String fcmCustomerId = base.fcmCustomerId;
 				String fcmBusinessId = base.fcmBusinessId;
@@ -659,20 +666,20 @@ public class Plan_Activity extends Activity implements OnClickListener {
 				allotbase.FailReason="";
 				FailtJPush2.allothttp(Plan_Activity.this, allotbase,h);
 				}
-			} else if (sp8.isShown()) {
-				Log.e(TAG, "sdsdsdsdsdsds");
-				dialog=new IOSdialog(Plan_Activity.this, "获取数据");
-
-
-				System.out.println("失效显示");
-				if((sp8text==""||sp8text==null)){
-				Toast.makeText(Plan_Activity.this, "请选择选择原因或输入原因",Toast.LENGTH_LONG).show();
-				dialog.close();	
-				}else{
-//				RequestBody body = getBoay2(sp8text,et3.getText().toString());
-//				myHttp2 http = new myHttp2(body, App_url.URLSP1, H, 3, Plan_Activity.this);
-//				http.start();
-				}
+			} else if (caseid==4) {
+//				Log.e(TAG, "sdsdsdsdsdsds");
+//				dialog=new IOSdialog(Plan_Activity.this, "获取数据");
+//
+//
+//				System.out.println("失效显示");
+//				if((sp8text==""||sp8text==null)){
+//				Toast.makeText(Plan_Activity.this, "请选择选择原因或输入原因",Toast.LENGTH_LONG).show();
+//				dialog.close();
+//				}else{
+////				RequestBody body = getBoay2(sp8text,et3.getText().toString());
+////				myHttp2 http = new myHttp2(body, App_url.URLSP1, H, 3, Plan_Activity.this);
+////				http.start();
+//				}
 			}
 			break;
 			
